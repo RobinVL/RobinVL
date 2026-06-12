@@ -30,9 +30,12 @@ Building web apps, trading bots and Linux automation.
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-**Web3**
+**Crypto**
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Hyperliquid](https://img.shields.io/badge/Hyperliquid-97FCE4?style=for-the-badge&logoColor=black)
+![Kraken](https://img.shields.io/badge/Kraken-7132F5?style=for-the-badge&logoColor=white)
+![Extend](https://img.shields.io/badge/Extend-1A1A2E?style=for-the-badge&logoColor=white)
 
 **AI**
 
