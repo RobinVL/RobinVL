@@ -31,3 +31,5 @@ Building web apps, trading bots and Linux automation.
 - ⚡ Web apps — React / Next.js / Vite, Tailwind, Supabase + PostgreSQL
 - 🤖 Bots & automation — Python, websockets, deployed on Railway
 - 🐧 Linux tooling — Bash, systemd, Cinnamon desklets/extensions
+
+<!-- profile readme -->
