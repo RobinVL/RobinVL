@@ -22,11 +22,15 @@ Building web apps, trading bots and Linux automation.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🔨 What I build
 
 - ⚡ Web apps — React / Next.js / Vite, Tailwind, Supabase + PostgreSQL
 - 🤖 Bots & automation — Python, websockets, deployed on Railway
 - 🐧 Linux tooling — Bash, systemd, Cinnamon desklets/extensions
+- 🧠 AI-assisted workflows — Claude Code, OpenRouter, local GGUF models
 
 <!-- profile readme -->
